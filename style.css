@@ -138,6 +138,18 @@ footer {
   margin-top: 0;
 }
 
+#contact-cta {
+  background: var(--accent-color);
+  color: var(--secondary-color);
+  text-align: center;
+  padding: 60px 20px;
+  margin-inline: -1rem;
+}
+
+section {
+  margin-block: 1rem;
+}
+
 /* Styles for screens above 768px */
 @media (min-width: 768px) {
   /* Products Secion */
